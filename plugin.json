@@ -1,7 +1,7 @@
 {
 	"name": "Atlantis Plugin",
 	"author": "Atlantis",
-	"version": "1.0.2",
+	"version": "1.0.4",
 	"minVersion": "1.120",
 	"supportedVersion": "1.140",
 	"basePackage": "com.atlantis",
@@ -9,6 +9,6 @@
 		"com.atlantis.behaviours.PlayerKickPlugin"
 	],
 	"donation": "https://discord.gg/TwVXW6apyp",
-	"download": "https://github.com/Soern-ctrl/65pRDjBarFC9xEpAbmHiAAbFrBEoBYnf8kKbi43k/raw/MeinPlugin.jar",
-	"update": "https://github.com/Soern-ctrl/65pRDjBarFC9xEpAbmHiAAbFrBEoBYnf8kKbi43k/raw/plugin.json"
+	"download": "https://github.com/Soern-ctrl/65pRDjBarFC9xEpAbmHiAAbFrBEoBYnf8kKbi43k/raw/main/MeinPlugin.jar",
+	"update": "https://raw.githubusercontent.com/Soern-ctrl/65pRDjBarFC9xEpAbmHiAAbFrBEoBYnf8kKbi43k/main/plugin.json"
 }
